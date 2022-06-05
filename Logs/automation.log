@@ -1,0 +1,612 @@
+05/26/2022 10:50:59 AM: INFO: *** Test_001: Verifying homepage title ***
+05/26/2022 10:51:05 AM: INFO: *** Homepage verification test Passed ***
+05/26/2022 10:51:09 AM: INFO: *** Test_001: Login test started ***
+05/26/2022 10:51:22 AM: INFO: *** Login Test Passed ***
+05/26/2022 10:51:22 AM: INFO: *** Test_001: Login Test completed
+05/26/2022 12:11:55 PM: INFO: *** Test_002: DDT test Started ***
+05/26/2022 12:12:47 PM: INFO: *** Test_002: DDT test Started ***
+05/26/2022 12:14:33 PM: INFO: *** Test_002: DDT test Started ***
+05/26/2022 12:14:43 PM: INFO: *** Test Passed ***
+05/26/2022 12:14:46 PM: INFO: *** Test Passed ***
+05/26/2022 12:14:49 PM: INFO: *** Test Passed ***
+05/26/2022 12:14:55 PM: INFO: *** Test Passed ***
+05/26/2022 12:14:57 PM: INFO: *** Test_002: DDT Test Passed ***
+05/26/2022 12:14:57 PM: INFO: *** Test_002: DDT Test completed
+05/26/2022 09:37:15 PM: INFO: *** Test_001: Verifying homepage title ***
+05/26/2022 09:37:52 PM: INFO: *** Homepage verification test Failed ***
+05/26/2022 09:38:01 PM: INFO: *** Test_001: Login test started ***
+05/28/2022 02:02:00 PM: INFO: *** Test_003: Adding Recruitment Candidates Started ***
+05/28/2022 07:35:51 PM: INFO: *** Test_003: Adding Recruitment Candidates Started ***
+05/28/2022 07:41:12 PM: INFO: *** Test_003: Adding Recruitment Candidates Started ***
+05/28/2022 07:43:53 PM: INFO: *** Test_003: Adding Recruitment Candidates Started ***
+05/28/2022 07:49:20 PM: INFO: *** Test_003: Started ***
+05/28/2022 07:49:34 PM: INFO: *** Adding Candidates details ***
+05/28/2022 07:55:28 PM: INFO: *** Test_003: Started ***
+05/28/2022 07:55:44 PM: INFO: *** Adding Candidates details ***
+05/28/2022 08:27:36 PM: INFO: *** Test_003: Started ***
+05/28/2022 08:27:53 PM: INFO: *** Adding Candidates details ***
+05/28/2022 08:30:40 PM: INFO: *** Test_003: Started ***
+05/28/2022 08:31:03 PM: INFO: *** Adding Candidates details ***
+05/28/2022 08:31:56 PM: INFO: *** Test_003: Started ***
+05/28/2022 08:32:14 PM: INFO: *** Adding Candidates details ***
+05/28/2022 08:32:22 PM: INFO: *** Adding candidate details unsuccessfull ***
+05/28/2022 08:32:22 PM: INFO: *** Test_003: Completed ***
+05/28/2022 09:16:32 PM: INFO: *** Test_003: Started ***
+05/28/2022 09:16:51 PM: INFO: *** Adding Candidates details ***
+05/28/2022 09:16:59 PM: INFO: *** Adding candidate details unsuccessfull ***
+05/28/2022 09:17:00 PM: INFO: *** Test_003: Completed ***
+05/28/2022 09:34:19 PM: INFO: *** Test_003: Started ***
+05/28/2022 09:34:38 PM: INFO: *** Adding Candidates details ***
+05/28/2022 09:34:46 PM: INFO: *** Candidate details added successfully ***
+05/28/2022 09:36:12 PM: INFO: *** Test_003: Started ***
+05/28/2022 09:36:31 PM: INFO: *** Adding Candidates details ***
+05/28/2022 09:36:39 PM: INFO: *** Candidate details added successfully ***
+05/28/2022 09:36:39 PM: INFO: *** Test_003: Completed ***
+05/28/2022 09:40:05 PM: INFO: *** Test_003: Started ***
+05/28/2022 09:40:24 PM: INFO: *** Adding Candidates details ***
+05/28/2022 09:40:32 PM: INFO: *** Candidate details added successfully ***
+05/28/2022 09:40:32 PM: INFO: *** Test_003: Completed ***
+05/29/2022 07:48:02 PM: INFO: *** Test Search by Job Title Passed ***
+05/29/2022 10:38:25 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 10:42:21 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 10:51:38 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:06:13 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:06:15 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:06:16 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:06:16 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:06:18 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:06:20 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:06:20 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:06:22 PM: INFO: *** Records matching Hiring Manager found ***
+05/29/2022 11:06:23 PM: INFO: *** Search by Hiring Manager Completed ***
+05/29/2022 11:06:23 PM: INFO: *** Search by Status Started ***
+05/29/2022 11:06:25 PM: INFO: *** Records matching Shortlisted status found ***
+05/29/2022 11:06:26 PM: INFO: *** Search by Status Completed ***
+05/29/2022 11:06:26 PM: INFO: *** Search by Candidate Name Started ***
+05/29/2022 11:13:32 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:13:33 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:13:35 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:13:35 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:13:37 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:13:38 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:13:38 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:13:40 PM: INFO: *** Records matching Hiring Manager found ***
+05/29/2022 11:13:41 PM: INFO: *** Search by Hiring Manager Completed ***
+05/29/2022 11:13:41 PM: INFO: *** Search by Status Started ***
+05/29/2022 11:13:44 PM: INFO: *** Records matching Shortlisted status found ***
+05/29/2022 11:13:45 PM: INFO: *** Search by Status Completed ***
+05/29/2022 11:13:45 PM: INFO: *** Search by Candidate Name Started ***
+05/29/2022 11:18:49 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:18:51 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:18:53 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:18:53 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:18:55 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:18:56 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:18:56 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:24:03 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:24:05 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:24:07 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:24:07 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:24:09 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:24:10 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:24:10 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:24:12 PM: INFO: *** Records matching Hiring Manager found ***
+05/29/2022 11:24:14 PM: INFO: *** Search by Hiring Manager Completed ***
+05/29/2022 11:24:14 PM: INFO: *** Search by Status Started ***
+05/29/2022 11:24:16 PM: INFO: *** Records matching Shortlisted status found ***
+05/29/2022 11:24:17 PM: INFO: *** Search by Status Completed ***
+05/29/2022 11:24:17 PM: INFO: *** Search by Candidate Name Started ***
+05/29/2022 11:26:52 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:26:54 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:26:55 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:26:55 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:26:57 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:26:59 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:26:59 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:27:01 PM: INFO: *** Records matching Hiring Manager found ***
+05/29/2022 11:27:02 PM: INFO: *** Search by Hiring Manager Completed ***
+05/29/2022 11:27:02 PM: INFO: *** Search by Status Started ***
+05/29/2022 11:27:04 PM: INFO: *** Records matching Shortlisted status found ***
+05/29/2022 11:27:06 PM: INFO: *** Search by Status Completed ***
+05/29/2022 11:27:06 PM: INFO: *** Search by Candidate Name Started ***
+05/29/2022 11:27:10 PM: INFO: *** Records matching candidate Anne found ***
+05/29/2022 11:27:11 PM: INFO: *** Search by Candidate Name Completed ***
+05/29/2022 11:27:11 PM: INFO: *** Search by Keyword Started ***
+05/29/2022 11:30:45 PM: INFO: *** Search by Job Title Started***
+05/29/2022 11:30:48 PM: INFO: *** Records matching Job Title found ***
+05/29/2022 11:30:49 PM: INFO: *** Search by Job Title Completed ***
+05/29/2022 11:30:49 PM: INFO: *** Search by Vacancy Started ***
+05/29/2022 11:30:51 PM: INFO: *** Records matching Vacancy found ***
+05/29/2022 11:30:53 PM: INFO: *** Search by Vacancy Completed ***
+05/29/2022 11:30:53 PM: INFO: *** Search by Hiring Manager Started ***
+05/29/2022 11:30:55 PM: INFO: *** Records matching Hiring Manager found ***
+05/29/2022 11:30:57 PM: INFO: *** Search by Hiring Manager Completed ***
+05/29/2022 11:30:57 PM: INFO: *** Search by Status Started ***
+05/29/2022 11:30:59 PM: INFO: *** Records matching Shortlisted status found ***
+05/29/2022 11:31:01 PM: INFO: *** Search by Status Completed ***
+05/29/2022 11:31:01 PM: INFO: *** Search by Candidate Name Started ***
+05/29/2022 11:31:04 PM: INFO: *** Records matching candidate Anne found ***
+05/29/2022 11:31:06 PM: INFO: *** Search by Candidate Name Completed ***
+05/29/2022 11:31:06 PM: INFO: *** Search by Keyword Started ***
+05/29/2022 11:31:08 PM: INFO: *** Records Found ***
+05/29/2022 11:31:10 PM: INFO: *** Search by Keyword completed ***
+05/30/2022 11:06:05 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:08:28 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:08:30 AM: INFO: *** Records found ***
+05/30/2022 11:08:32 AM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 11:10:22 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:11:05 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:12:06 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:12:08 AM: INFO: *** Records not Found ***
+05/30/2022 11:31:07 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:31:09 AM: INFO: *** Records found ***
+05/30/2022 11:31:11 AM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 11:31:13 AM: INFO: *** Records found ***
+05/30/2022 11:31:15 AM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 11:31:17 AM: INFO: *** Records found ***
+05/30/2022 11:31:19 AM: INFO: *** 4-Search by Status Started ***
+05/30/2022 11:37:41 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:37:44 AM: INFO: *** Records found ***
+05/30/2022 11:37:45 AM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 11:37:47 AM: INFO: *** Records found ***
+05/30/2022 11:37:49 AM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 11:37:51 AM: INFO: *** Records found ***
+05/30/2022 11:37:53 AM: INFO: *** 4-Search by Status Started ***
+05/30/2022 11:37:56 AM: INFO: *** Records found ***
+05/30/2022 11:37:57 AM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 11:38:01 AM: INFO: *** Records found ***
+05/30/2022 11:38:03 AM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 11:38:05 AM: INFO: *** Records not Found ***
+05/30/2022 11:38:07 AM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 11:48:03 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:48:05 AM: INFO: *** Records found ***
+05/30/2022 11:48:07 AM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 11:48:09 AM: INFO: *** Records found ***
+05/30/2022 11:48:10 AM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 11:48:12 AM: INFO: *** Records found ***
+05/30/2022 11:48:14 AM: INFO: *** 4-Search by Status Started ***
+05/30/2022 11:48:16 AM: INFO: *** Records found ***
+05/30/2022 11:48:17 AM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 11:48:21 AM: INFO: *** Records found ***
+05/30/2022 11:48:22 AM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 11:48:24 AM: INFO: *** Records not Found ***
+05/30/2022 11:48:26 AM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 11:50:06 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:50:09 AM: INFO: *** Records found ***
+05/30/2022 11:50:10 AM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 11:50:13 AM: INFO: *** Records found ***
+05/30/2022 11:50:14 AM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 11:50:16 AM: INFO: *** Records found ***
+05/30/2022 11:50:18 AM: INFO: *** 4-Search by Status Started ***
+05/30/2022 11:50:20 AM: INFO: *** Records found ***
+05/30/2022 11:50:22 AM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 11:50:25 AM: INFO: *** Records found ***
+05/30/2022 11:50:27 AM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 11:50:29 AM: INFO: *** Records not Found ***
+05/30/2022 11:50:31 AM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 11:50:31 AM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 11:50:33 AM: INFO: *** Records found ***
+05/30/2022 11:50:35 AM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 11:50:38 AM: INFO: *** Records found ***
+05/30/2022 11:50:42 AM: INFO: *** Test_004: Completed ***
+05/30/2022 11:52:31 AM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 11:52:33 AM: INFO: *** Records found ***
+05/30/2022 11:52:34 AM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 11:52:37 AM: INFO: *** Records found ***
+05/30/2022 11:52:38 AM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 11:52:40 AM: INFO: *** Records found ***
+05/30/2022 11:52:42 AM: INFO: *** 4-Search by Status Started ***
+05/30/2022 11:52:44 AM: INFO: *** Records found ***
+05/30/2022 11:52:45 AM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 11:52:49 AM: INFO: *** Records found ***
+05/30/2022 11:52:51 AM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 11:52:53 AM: INFO: *** Records not Found ***
+05/30/2022 11:52:55 AM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 11:52:55 AM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 11:52:58 AM: INFO: *** Records found ***
+05/30/2022 11:52:59 AM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 11:53:02 AM: INFO: *** Records found ***
+05/30/2022 11:53:04 AM: INFO: *** Test_004: Completed ***
+05/30/2022 12:07:06 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:07:09 PM: INFO: *** Records found ***
+05/30/2022 12:07:11 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:07:13 PM: INFO: *** Records found ***
+05/30/2022 12:07:15 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:07:17 PM: INFO: *** Records found ***
+05/30/2022 12:07:19 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 12:07:22 PM: INFO: *** Records found ***
+05/30/2022 12:07:23 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 12:07:27 PM: INFO: *** Records found ***
+05/30/2022 12:07:29 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 12:07:31 PM: INFO: *** Records found ***
+05/30/2022 12:07:32 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 12:07:40 PM: INFO: *** Records found ***
+05/30/2022 12:07:43 PM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 12:07:46 PM: INFO: *** Records found ***
+05/30/2022 12:07:52 PM: INFO: *** Test_004: Completed ***
+05/30/2022 12:10:17 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:10:19 PM: INFO: *** Records found ***
+05/30/2022 12:10:21 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:10:23 PM: INFO: *** Records found ***
+05/30/2022 12:10:25 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:10:27 PM: INFO: *** Records found ***
+05/30/2022 12:10:29 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 12:10:31 PM: INFO: *** Records found ***
+05/30/2022 12:10:32 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 12:10:36 PM: INFO: *** Records found ***
+05/30/2022 12:10:37 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 12:10:39 PM: INFO: *** Records found ***
+05/30/2022 12:10:41 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 12:10:48 PM: INFO: *** Records found ***
+05/30/2022 12:10:51 PM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 12:10:53 PM: INFO: *** Records found ***
+05/30/2022 12:10:55 PM: INFO: *** Test_004: Completed ***
+05/30/2022 12:14:50 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:14:52 PM: INFO: *** Records found ***
+05/30/2022 12:14:54 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 12:14:54 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:14:56 PM: INFO: *** Records found ***
+05/30/2022 12:14:58 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 12:14:58 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:15:00 PM: INFO: *** Records found ***
+05/30/2022 12:15:02 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 12:15:02 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 12:15:04 PM: INFO: *** Records found ***
+05/30/2022 12:15:05 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 12:15:05 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 12:15:09 PM: INFO: *** Records found ***
+05/30/2022 12:15:10 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 12:15:10 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 12:15:12 PM: INFO: *** Records found ***
+05/30/2022 12:15:14 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 12:15:14 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 12:15:21 PM: INFO: *** Records found ***
+05/30/2022 12:15:24 PM: INFO: *** 7- Search By Date Range Completed ***
+05/30/2022 12:15:24 PM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 12:15:26 PM: INFO: *** Records found ***
+05/30/2022 12:15:28 PM: INFO: *** 8- Search by Application Method Completed ***
+05/30/2022 12:15:28 PM: INFO: *** Test_004: Completed ***
+05/30/2022 12:32:20 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:32:22 PM: INFO: *** Records found ***
+05/30/2022 12:32:24 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 12:32:24 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:32:26 PM: INFO: *** Records found ***
+05/30/2022 12:32:28 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 12:32:28 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:32:30 PM: INFO: *** Records found ***
+05/30/2022 12:32:32 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 12:32:32 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 12:32:35 PM: INFO: *** Records found ***
+05/30/2022 12:32:36 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 12:32:36 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 12:32:40 PM: INFO: *** Records found ***
+05/30/2022 12:32:42 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 12:32:42 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 12:32:44 PM: INFO: *** Records not Found ***
+05/30/2022 12:34:33 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:34:36 PM: INFO: *** Records found ***
+05/30/2022 12:34:37 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 12:34:37 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:34:39 PM: INFO: *** Records found ***
+05/30/2022 12:34:41 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 12:34:41 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:37:56 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:43:09 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 12:43:31 PM: INFO: *** Login Test Passed ***
+05/30/2022 12:43:31 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 12:43:36 PM: INFO: *** Test_003: Started ***
+05/30/2022 12:49:19 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 12:49:36 PM: INFO: *** Login Test Passed ***
+05/30/2022 12:49:36 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 12:49:41 PM: INFO: *** Test_003: Started ***
+05/30/2022 12:50:00 PM: INFO: *** Adding Candidates details ***
+05/30/2022 12:50:09 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 12:50:09 PM: INFO: *** Test_003: Completed ***
+05/30/2022 12:51:26 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 12:51:41 PM: INFO: *** Login Test Passed ***
+05/30/2022 12:51:41 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 12:51:45 PM: INFO: *** Test_003: Started ***
+05/30/2022 12:52:02 PM: INFO: *** Adding Candidates details ***
+05/30/2022 12:52:11 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 12:52:11 PM: INFO: *** Test_003: Completed ***
+05/30/2022 12:53:22 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 12:53:32 PM: INFO: *** Test Passed ***
+05/30/2022 12:53:35 PM: INFO: *** Test Passed ***
+05/30/2022 12:53:38 PM: INFO: *** Test Passed ***
+05/30/2022 12:53:43 PM: INFO: *** Test Passed ***
+05/30/2022 12:53:47 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 12:53:47 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 12:53:52 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 12:53:59 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 12:54:04 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 12:54:20 PM: INFO: *** Login Test Passed ***
+05/30/2022 12:54:20 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 12:54:24 PM: INFO: *** Test_003: Started ***
+05/30/2022 12:54:40 PM: INFO: *** Adding Candidates details ***
+05/30/2022 12:54:49 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 12:54:49 PM: INFO: *** Test_003: Completed ***
+05/30/2022 12:55:09 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 12:55:12 PM: INFO: *** Records found ***
+05/30/2022 12:55:14 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 12:55:14 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 12:55:16 PM: INFO: *** Records found ***
+05/30/2022 12:55:18 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 12:55:18 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 12:55:20 PM: INFO: *** Records found ***
+05/30/2022 12:55:21 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 12:55:21 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 12:55:24 PM: INFO: *** Records found ***
+05/30/2022 12:55:25 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 12:55:25 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:00:23 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:00:35 PM: INFO: *** Test Passed ***
+05/30/2022 01:00:37 PM: INFO: *** Test Passed ***
+05/30/2022 01:00:40 PM: INFO: *** Test Passed ***
+05/30/2022 01:00:48 PM: INFO: *** Test Passed ***
+05/30/2022 01:00:51 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:00:51 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:00:56 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:01:05 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:01:09 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:01:26 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:01:26 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:01:29 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:01:47 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:01:56 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 01:01:56 PM: INFO: *** Test_003: Completed ***
+05/30/2022 01:02:16 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:02:19 PM: INFO: *** Records found ***
+05/30/2022 01:02:20 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:02:20 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:02:22 PM: INFO: *** Records found ***
+05/30/2022 01:02:24 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:02:24 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:02:26 PM: INFO: *** Records found ***
+05/30/2022 01:02:27 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:02:27 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:02:29 PM: INFO: *** Records found ***
+05/30/2022 01:02:31 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:02:31 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:02:34 PM: INFO: *** Records found ***
+05/30/2022 01:02:35 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:02:35 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:02:37 PM: INFO: *** Records found ***
+05/30/2022 01:05:35 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:05:46 PM: INFO: *** Test Passed ***
+05/30/2022 01:05:49 PM: INFO: *** Test Passed ***
+05/30/2022 01:05:52 PM: INFO: *** Test Passed ***
+05/30/2022 01:05:59 PM: INFO: *** Test Passed ***
+05/30/2022 01:06:04 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:06:04 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:06:11 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:06:23 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:06:29 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:06:46 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:06:46 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:06:50 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:07:08 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:07:17 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 01:07:17 PM: INFO: *** Test_003: Completed ***
+05/30/2022 01:07:40 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:07:43 PM: INFO: *** Records found ***
+05/30/2022 01:07:45 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:07:45 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:07:48 PM: INFO: *** Records found ***
+05/30/2022 01:07:50 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:07:50 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:07:52 PM: INFO: *** Records found ***
+05/30/2022 01:07:54 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:07:54 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:07:57 PM: INFO: *** Records found ***
+05/30/2022 01:07:59 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:07:59 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:08:03 PM: INFO: *** Records found ***
+05/30/2022 01:08:05 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:08:05 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:08:08 PM: INFO: *** Records found ***
+05/30/2022 01:08:10 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 01:08:10 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 01:08:19 PM: INFO: *** Records not Found ***
+05/30/2022 01:09:35 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:09:47 PM: INFO: *** Test Passed ***
+05/30/2022 01:09:49 PM: INFO: *** Test Passed ***
+05/30/2022 01:09:53 PM: INFO: *** Test Passed ***
+05/30/2022 01:10:00 PM: INFO: *** Test Passed ***
+05/30/2022 01:10:02 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:10:02 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:10:09 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:10:19 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:10:23 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:10:39 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:10:39 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:10:43 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:11:00 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:11:09 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 01:11:09 PM: INFO: *** Test_003: Completed ***
+05/30/2022 01:11:30 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:11:33 PM: INFO: *** Records found ***
+05/30/2022 01:11:35 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:11:35 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:11:38 PM: INFO: *** Records found ***
+05/30/2022 01:11:40 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:11:40 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:11:43 PM: INFO: *** Records found ***
+05/30/2022 01:11:46 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:11:46 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:11:49 PM: INFO: *** Records found ***
+05/30/2022 01:11:51 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:11:51 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:11:55 PM: INFO: *** Records found ***
+05/30/2022 01:11:57 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:11:57 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:12:00 PM: INFO: *** Records found ***
+05/30/2022 01:12:02 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 01:12:02 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 01:12:12 PM: INFO: *** Records not Found ***
+05/30/2022 01:15:03 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:15:13 PM: INFO: *** Test Passed ***
+05/30/2022 01:15:16 PM: INFO: *** Test Passed ***
+05/30/2022 01:15:19 PM: INFO: *** Test Passed ***
+05/30/2022 01:15:26 PM: INFO: *** Test Passed ***
+05/30/2022 01:15:29 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:15:29 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:15:33 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:15:46 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:15:50 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:16:06 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:16:06 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:16:10 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:16:30 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:16:41 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 01:16:41 PM: INFO: *** Test_003: Completed ***
+05/30/2022 01:17:03 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:17:06 PM: INFO: *** Records found ***
+05/30/2022 01:17:08 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:17:08 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:17:11 PM: INFO: *** Records found ***
+05/30/2022 01:17:13 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:17:13 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:17:16 PM: INFO: *** Records found ***
+05/30/2022 01:17:18 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:17:18 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:17:20 PM: INFO: *** Records found ***
+05/30/2022 01:17:22 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:17:22 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:17:26 PM: INFO: *** Records found ***
+05/30/2022 01:17:28 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:17:28 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:17:31 PM: INFO: *** Records found ***
+05/30/2022 01:17:32 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 01:17:32 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 01:19:58 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:20:10 PM: INFO: *** Test Passed ***
+05/30/2022 01:20:13 PM: INFO: *** Test Passed ***
+05/30/2022 01:20:17 PM: INFO: *** Test Passed ***
+05/30/2022 01:20:24 PM: INFO: *** Test Passed ***
+05/30/2022 01:20:30 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:20:30 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:20:34 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:20:42 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:20:46 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:21:03 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:21:03 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:21:08 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:21:27 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:22:27 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:22:35 PM: INFO: *** Records found ***
+05/30/2022 01:22:40 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:22:40 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:22:47 PM: INFO: *** Records found ***
+05/30/2022 01:22:51 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:22:51 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:22:58 PM: INFO: *** Records found ***
+05/30/2022 01:23:01 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:23:01 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:23:07 PM: INFO: *** Records found ***
+05/30/2022 01:23:11 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:23:11 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:23:19 PM: INFO: *** Records found ***
+05/30/2022 01:23:23 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:23:23 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:23:28 PM: INFO: *** Records found ***
+05/30/2022 01:23:31 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 01:23:31 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 01:23:46 PM: INFO: *** Records found ***
+05/30/2022 01:23:49 PM: INFO: *** 7- Search By Date Range Completed ***
+05/30/2022 01:23:49 PM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 01:23:54 PM: INFO: *** Records found ***
+05/30/2022 01:23:57 PM: INFO: *** 8- Search by Application Method Completed ***
+05/30/2022 01:24:06 PM: INFO: *** Test_004: Completed ***
+05/30/2022 01:28:02 PM: INFO: *** Test_002: DDT test Started ***
+05/30/2022 01:28:13 PM: INFO: *** Test Passed ***
+05/30/2022 01:28:16 PM: INFO: *** Test Passed ***
+05/30/2022 01:28:20 PM: INFO: *** Test Passed ***
+05/30/2022 01:28:26 PM: INFO: *** Test Passed ***
+05/30/2022 01:28:33 PM: INFO: *** Test_002: DDT Test Passed ***
+05/30/2022 01:28:33 PM: INFO: *** Test_002: DDT Test completed
+05/30/2022 01:28:38 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 01:28:45 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 01:28:50 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 01:29:07 PM: INFO: *** Login Test Passed ***
+05/30/2022 01:29:07 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 01:29:11 PM: INFO: *** Test_003: Started ***
+05/30/2022 01:29:29 PM: INFO: *** Adding Candidates details ***
+05/30/2022 01:29:37 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 01:29:37 PM: INFO: *** Test_003: Completed ***
+05/30/2022 01:29:58 PM: INFO: *** 1-Search by Job Title Started***
+05/30/2022 01:30:01 PM: INFO: *** Records found ***
+05/30/2022 01:30:03 PM: INFO: *** 1-Search by Job Title Completed ***
+05/30/2022 01:30:03 PM: INFO: *** 2-Search by Vacancy Started ***
+05/30/2022 01:30:06 PM: INFO: *** Records found ***
+05/30/2022 01:30:08 PM: INFO: *** 2-Search by Vacancy Completed ***
+05/30/2022 01:30:08 PM: INFO: *** 3-Search by Hiring Manager Started ***
+05/30/2022 01:30:10 PM: INFO: *** Records found ***
+05/30/2022 01:30:12 PM: INFO: *** 3-Search by Hiring manager Completed ***
+05/30/2022 01:30:12 PM: INFO: *** 4-Search by Status Started ***
+05/30/2022 01:30:14 PM: INFO: *** Records found ***
+05/30/2022 01:30:16 PM: INFO: *** 4-Search by Status Completed ***
+05/30/2022 01:30:16 PM: INFO: *** 5-Search by Candidate Name Started ***
+05/30/2022 01:30:19 PM: INFO: *** Records found ***
+05/30/2022 01:30:21 PM: INFO: *** 5-Search by Candidate Name completed ***
+05/30/2022 01:30:21 PM: INFO: *** 6-Search by Keyword Started ***
+05/30/2022 01:30:24 PM: INFO: *** Records found ***
+05/30/2022 01:30:25 PM: INFO: *** 6-Search by Keyword Completed ***
+05/30/2022 01:30:25 PM: INFO: *** 7- Search By Date Range Started ***
+05/30/2022 01:30:35 PM: INFO: *** Records found ***
+05/30/2022 01:30:37 PM: INFO: *** 7- Search By Date Range Completed ***
+05/30/2022 01:30:37 PM: INFO: *** 8- Search by Application Method Started ***
+05/30/2022 01:30:41 PM: INFO: *** Records found ***
+05/30/2022 01:30:43 PM: INFO: *** 8- Search by Application Method Completed ***
+05/30/2022 01:30:43 PM: INFO: *** Test_004: Completed ***
+05/30/2022 02:35:59 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 02:36:13 PM: INFO: *** Login Test Passed ***
+05/30/2022 02:36:13 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 02:36:16 PM: INFO: *** Test_003: Started ***
+05/30/2022 02:36:34 PM: INFO: *** Adding Candidates details ***
+05/30/2022 02:36:43 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 02:36:43 PM: INFO: *** Test_003: Completed ***
+05/30/2022 02:45:06 PM: INFO: ====== WebDriver manager ======
+05/30/2022 02:45:11 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 02:45:11 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 02:45:12 PM: INFO: There is no [win32] chromedriver for browser 101.0.4951 in cache
+05/30/2022 02:45:12 PM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_win32.zip
+05/30/2022 02:45:17 PM: INFO: Driver has been saved in cache [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41]
+05/30/2022 02:45:22 PM: INFO: *** Test_001: Verifying homepage title ***
+05/30/2022 02:45:28 PM: INFO: *** Homepage verification test Passed ***
+05/30/2022 02:45:28 PM: INFO: ====== WebDriver manager ======
+05/30/2022 02:45:32 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 02:45:32 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 02:45:32 PM: INFO: Driver [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/30/2022 02:45:36 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 02:45:56 PM: INFO: *** Login Test Passed ***
+05/30/2022 02:45:56 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 03:02:10 PM: INFO: ====== WebDriver manager ======
+05/30/2022 03:02:14 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 03:02:14 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 03:02:14 PM: INFO: Driver [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/30/2022 03:02:18 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 03:02:34 PM: INFO: *** Login Test Passed ***
+05/30/2022 03:02:34 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 03:02:34 PM: INFO: ====== WebDriver manager ======
+05/30/2022 03:02:38 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 03:02:38 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 03:02:38 PM: INFO: Driver [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/30/2022 03:02:42 PM: INFO: *** Test_003: Started ***
+05/30/2022 03:03:00 PM: INFO: *** Adding Candidates details ***
+05/30/2022 03:03:09 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 03:03:09 PM: INFO: *** Test_003: Completed ***
+05/30/2022 03:03:56 PM: INFO: ====== WebDriver manager ======
+05/30/2022 03:04:00 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 03:04:00 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 03:04:00 PM: INFO: Driver [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/30/2022 03:04:04 PM: INFO: *** Test_001: Login test started ***
+05/30/2022 03:04:27 PM: INFO: *** Login Test Passed ***
+05/30/2022 03:04:27 PM: INFO: *** Test_001: Login Test completed
+05/30/2022 03:04:27 PM: INFO: ====== WebDriver manager ======
+05/30/2022 03:04:31 PM: INFO: Current google-chrome version is 101.0.4951
+05/30/2022 03:04:31 PM: INFO: Get LATEST chromedriver version for 101.0.4951 google-chrome
+05/30/2022 03:04:31 PM: INFO: Driver [C:\Users\ranje\.wdm\drivers\chromedriver\win32\101.0.4951.41\chromedriver.exe] found in cache
+05/30/2022 03:04:35 PM: INFO: *** Test_003: Started ***
+05/30/2022 03:04:53 PM: INFO: *** Adding Candidates details ***
+05/30/2022 03:05:02 PM: INFO: *** Candidate details added successfully ***
+05/30/2022 03:05:02 PM: INFO: *** Test_003: Completed ***
